@@ -22,7 +22,7 @@ Inference| [X-ray scan YOLOv4 inference](https://github.com/AliceecilA93/Object-
 
 ## 사용된 데이터  
 
-- AI Hub 위해물품 엑스레이 이미지 (https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=233)
+- AI Hub [위해물품 엑스레이 이미지](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=233)
 
 ## 사용된 모델 
 
@@ -36,7 +36,7 @@ Inference| [X-ray scan YOLOv4 inference](https://github.com/AliceecilA93/Object-
  2. 데이터 전처리
   2-1. Darknet에 필요한 Image, TXT 파일 생성 
   
-     * Image preprocessing
+   * Image preprocessing
      - Image resize  
      
      ![image](https://user-images.githubusercontent.com/112064534/207084566-f05379a8-c943-442c-83d4-b6702a82bdad.png)
@@ -73,7 +73,7 @@ Inference| [X-ray scan YOLOv4 inference](https://github.com/AliceecilA93/Object-
 
 
  6. Inference video 
- ['BEST mAP Inference'] (https://www.youtube.com/watch?v=_O-fLSeARNE)
+ ['BEST mAP Inference'](https://www.youtube.com/watch?v=_O-fLSeARNE)
  
  
 
